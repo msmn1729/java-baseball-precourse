@@ -1,5 +1,7 @@
 # 미션 - 숫자 야구 게임
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmsmn1729%2Fjava-baseball-precourse&count_bg=%2306A1F1&title_bg=%23555555&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+
 ## :memo:구현 해야할 기능 목록
 ### 3자리 난수 생성
 - [x] 각 자리 수의 범위는 1~9이다.
